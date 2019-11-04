@@ -1,5 +1,4 @@
 # UiDesign
 ### 番茄鐘ToDoList
-<center>
-<img src="https://tw-blackbear.github.io/UiDesign/TOMO-番茄鐘2.jpg" width="35%" height="35%"></img> <img src="https://tw-blackbear.github.io/UiDesign/TOMO2.jpg" width="35%" height="35%"></img></center>
+<img src="https://tw-blackbear.github.io/UiDesign/TOMO-番茄鐘2.jpg" width="50%" height="0%"></img>    <img src="https://tw-blackbear.github.io/UiDesign/TOMO2.jpg" width="50%" height="50%"></img>
 
